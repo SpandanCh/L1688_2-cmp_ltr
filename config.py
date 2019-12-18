@@ -1,5 +1,7 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+from matplotlib.ticker import AutoMinorLocator
+
 mpl.rcParams['xtick.direction'] = 'in'
 mpl.rcParams['ytick.direction'] = 'in'
 
